@@ -1,4 +1,5 @@
-[![GitHub Socialify][socialify-image]][socialify-edit-link]
+Deployed: https://tcssocialify.vercel.app
+<!-- [![GitHub Socialify][socialify-image]][socialify-edit-link]
 
 Want your project to stand out? **Socialify** helps you showcase your project to the world by generating a beautiful project image like the one above!
 
@@ -8,7 +9,6 @@ Join [![thousands of repositories](https://socialify.git.ci/api/stats.svg)](http
 
 ## Usage
 
-Project site: https://socialify.git.ci
 
 ### Social Image as a Service
 
@@ -52,7 +52,7 @@ You can use cli tool [mheap/github-social-image](https://github.com/mheap/github
   <a href="https://socialify.git.ci/facebook/react?description=1&font=Bitter&language=0&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI%2BCiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8%2BCiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8%2BCiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8%2BCiAgPC9nPgo8L3N2Zz4K&owner=0&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Dark">
     <img width="410" alt="React Example" src="https://socialify.git.ci/facebook/react/image?description=1&font=Bitter&language=0&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI%2BCiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8%2BCiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8%2BCiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8%2BCiAgPC9nPgo8L3N2Zz4K&owner=0&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Dark" />
   </a>
-</p>
+</p> -->
 
 ## Development
 
@@ -72,7 +72,7 @@ You can use cli tool [mheap/github-social-image](https://github.com/mheap/github
   yarn dev
   ```
 
-## Authors
+<!-- ## Authors
 
 - [@CryogenicPlanet](https://github.com/CryogenicPlanet)
 - [@wei](https://github.com/wei)
@@ -98,4 +98,4 @@ Consider downloading the images or self-hosting should this be a problem.
 
 Socialify does not collect any personal or identifiable information, we do not use cookies, do not collect emails or anything.
 
-Socialify uses Google Analytics on web pages to understand overall usage. Generated image links do not have any tracking.
+Socialify uses Google Analytics on web pages to understand overall usage. Generated image links do not have any tracking. -->
