@@ -16,7 +16,7 @@
     "lint:fix": "yarn lint --fix",
     "prettier": "prettier --check .",
     "prettier:fix": "prettier --write .",
-    "verify": "yarn prettier && yarn lint && yarn tsc && yarn test && yarn build",
+    "verify": "yarn prettier && yarn lint && yarn tsc && yarn build",
     "download-font": "./fonts/download-font.sh",
     "prepare": "is-ci || husky install"
   },
