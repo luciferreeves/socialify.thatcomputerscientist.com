@@ -32,6 +32,7 @@ const Card = (config: Configuration) => {
       : nameLength > 25
       ? '30px'
       : '40px'
+  console.log(config.theme)
 
   return (
     <div
@@ -91,6 +92,18 @@ const Card = (config: Configuration) => {
             alt={config?.language2?.value}
             width={85}
             height={85}
+            style={{
+              objectFit: 'contain'
+            }}
+          />
+        )}
+        {/* show github logo if no language is selected */}
+        {!languageIconImageURI && !language2IconImageURI && (
+          <img
+            src={config.logo || getSimpleIconsImageURI('GitHub', config.theme)}
+            alt="Logo"
+            width={100}
+            height={100}
             style={{
               objectFit: 'contain'
             }}

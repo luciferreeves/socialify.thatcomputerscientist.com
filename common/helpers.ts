@@ -96,7 +96,9 @@ const getSimpleIconsImageURI = function (language: string, theme: Theme) {
   const icon = LANGUAGE_ICON_MAPPING[language]
   if (!icon) return undefined
 
-  const iconColor = theme === Theme.light ? `#${icon.hex}` : `#${icon.hex}`
+  const iconColor =
+    language === 'GitHub' && theme === Theme.dark ? '#fff' : `#${icon.hex}`
+
   const iconSvg = icon.svg.replace('<svg ', `<svg fill="${iconColor}" `)
 
   return `data:image/svg+xml,${encodeURIComponent(iconSvg)}`
