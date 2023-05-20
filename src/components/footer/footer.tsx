@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer footer-center p-2 text-base-content">
       <div>
         <p>
-          <span>Made with 💖 by </span>
+          <span>Built on works by </span>
           <Link
             className="link link-accent no-underline"
             href="https://cryogenicplanet.tech"
@@ -19,19 +19,19 @@ const Footer = () => {
             target="_blank">
             Wei
           </Link>
-          <span>. Modified Fork by </span>
+          <span>. &copy; 2023 </span>
           <Link
             className="link link-accent no-underline"
             href="https://thatcomputerscientist.com/"
             target="_blank">
             That Computer Scientist
           </Link>
-          <span>. Original Work available at </span>
+          <span>Created with 💖 by  </span>
           <Link
             className="link link-accent no-underline"
-            href="https://socialify.git.ci/"
+            href="https://github.com/luciferreeves/"
             target="_blank">
-            Socialify
+            @luciferreeves
           </Link>
           <span>.</span>
         </p>
