@@ -26,7 +26,7 @@ const Footer = () => {
             target="_blank">
             That Computer Scientist
           </Link>
-          <span>Created with 💖 by  </span>
+          <span>. Created with 💖 by </span>
           <Link
             className="link link-accent no-underline"
             href="https://github.com/luciferreeves/"
